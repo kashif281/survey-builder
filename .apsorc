@@ -166,5 +166,8 @@
       "type": "OneToMany"
     }
   ],
-  "_removedEntities": []
+  "_removedEntities": [],
+  "version": 2,
+  "rootFolder": "src",
+  "apiType": "Rest"
 }
